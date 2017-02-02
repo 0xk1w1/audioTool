@@ -1,4 +1,4 @@
-# audiotool
+# audioTool
 Advanced Backup Tool for Audio Professionals 
 
 audiotool is an automator app for OSX / macOS which consists of a dash of bash scripts. 
