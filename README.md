@@ -1,9 +1,9 @@
 # audioTool
 Advanced Backup Tool for Audio Professionals 
 
-audiotool is an automator app for OSX / macOS which consists of a dash of bash scripts. 
+audiotool is an automator app for OSX / macOS which consists of a few bash scripts. 
 
-To compile as such from source open Automator.app from /Applications and create new application. Go to Actions and find Utilities in the Library. Choose Run Apple Script, erase the violet text of the Box in the Drag and Drop Workflowarea to the right and paste this Apple Script into there:
+To "compile" from source open Automator.app from /Applications and create new application. Go to Actions and find Utilities in the Library. Choose Run Apple Script, erase the violet text of the Box in the Drag and Drop Workflowarea to the right and paste this Apple Script into there:
 
 ```
 set d to text item delimiters
